@@ -1,9 +1,9 @@
----
-title: "Learning about Gatsby"
-slug: "/blog/learning-about-gatsby"
+--- 
+title: "Continuing to Learn"
+slug: "/blog/continuing-learning"
 date: "2021-08-01"
----
+--- 
 
-## What I'm Working On
+## Update
 
-Right now, I'm working through a [DigitalOcean tutorial](https://www.digitalocean.com/community/tutorials) on using [Gatsby](https://www.gatsbyjs.com/) with Markdown.
+I'm continuing to learn Gatsby to build some fast static sites!
