@@ -2,9 +2,9 @@ import React, { useState, useEffect }  from "react"
 // // import Markdown from "markdown-to-jsx"
 //
 
-export default function BlogDetails() {
+export default function TagDetails({route, post=""}) {
     return (
-        <h1>TEST BLOG DETAILS</h1>
+        <h1>TEST TagDetails {route}</h1>
     )
 }
 

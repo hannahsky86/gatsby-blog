@@ -1,8 +1,10 @@
-import {Link} from "gatsby";
-import React from "@types/react";
+// import {Link} from "gatsby";
+import React from "react";
+// import {Tag} from "../../.cache/page-ssr";
 
-const TagsPage = ({ tag_dict }) => (
-    <h1>TEST TAGS</h1>
+const TagsPage = ({ item }) => (
+    <h1>TEST TAGS Page { item }</h1>
+    // console.log("TEST TAG DICT ", tag_dict)
     // <div className="tags">
     //     {Object.keys(tag_dict).map((item, idx) =>
     //         <Link to={`/tags-page`} key={`${idx}-tag`}>{item}</Link>
@@ -10,4 +12,4 @@ const TagsPage = ({ tag_dict }) => (
     // </div>
 )
 
-export default Tags
+export default TagsPage

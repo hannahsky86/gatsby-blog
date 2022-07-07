@@ -2,6 +2,7 @@
 title: "Learning about Gatsby"
 slug: "/blog/learning-about-gatsby"
 date: "2021-08-01"
+tags:  ["Gatsby", "JavaScript", "GraphQL"]
 ---
 
 ## What I'm Working On
